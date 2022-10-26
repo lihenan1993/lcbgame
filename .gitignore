@@ -1,0 +1,7 @@
+/.idea
+/dist
+/*.pem
+/configs/*.json
+/log/*.log
+vendor
+/*.exe
